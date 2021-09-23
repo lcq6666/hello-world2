@@ -1,3 +1,6 @@
 # hello-world2
-2 hello！I am Eric.
-This is my first time to use github.
+
+Hi Humans!
+
+Hubot here,I like Node,Js and Coffeescript(that's what I'm made of!)
+I've had tacos on the moon and find them far superior to Earth tacos.
